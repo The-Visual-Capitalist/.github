@@ -1,4 +1,4 @@
-# Visual Capitalist - Data Stories, Charts, Maps, and Infographics
+# The Visual Capitalist - Data Stories, Charts, Maps, and Infographics
 
 ## Visual Capitalist Snapshot
 
